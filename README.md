@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Alexa
+## Villa
+Mis amigues me dicen **LEX**. Soy estudiante de comunicación visual y soy una aficionada por las cosas feas.
+
+Mis postres favoritos son:
+- arroz con leche
+- ate con queso
+- flan
